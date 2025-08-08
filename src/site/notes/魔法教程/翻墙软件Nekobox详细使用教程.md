@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/魔法教程/翻墙软件Nekobox详细使用教程/","updated":"2025-08-08T14:33:47.107+08:00"}
+{"dg-publish":true,"permalink":"/魔法教程/翻墙软件Nekobox详细使用教程/","updated":"2025-08-08T14:51:00.009+08:00"}
 ---
 
 
@@ -51,35 +51,35 @@ Nekobox下载:https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download
 如何判断一个链接是否是节点链接:
 节点链接不是`http`或者`https`开头的，如果你得到的是一个`http`或`https`开头的链接那么大概率那是一个订阅链接，请参考后面[[#导入订阅]]的步骤操作。
 首先复制你的节点订阅，然后来到Nekobox中，点击右上角的 `+` 图标，选择`从剪贴板导入`，选择后你就会在主界面看到你导入的节点，如果提示成功后不显示，则退出软件并杀掉后台后重新进入就能看到。
-![翻墙软件Nekobox详细使用教程-6.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-6.gif)
+![翻墙软件Nekobox详细使用教程-6.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-6.webp)
 
 如果你手上有一个节点二维码，那么点击右上角的`+`图标，然后选择`扫描二维码`软件就会自动打开相机，对准二维码扫描就可以把节点添加进来。
 如果你手机已经保存了那张二维码，那么扫描界面右上角点击之后就可以选择图片扫描二维码。
-![翻墙软件Nekobox详细使用教程-7.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-7.gif)
+![翻墙软件Nekobox详细使用教程-7.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-7.webp)
 ### 导入订阅
 如果你手上有一个链接是`http`或者`https`开头的。那么大概率是订阅链接，你可以按照下面的步骤添加到软件中并更新。
 复制你的链接之后，点击软件左上方三条横杠的图标，选择`分组`，到分组页面之后点击右上角四条杠和一个加号的图标添加分组。
-![翻墙软件Nekobox详细使用教程-8.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-8.gif)
+![翻墙软件Nekobox详细使用教程-8.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-8.webp)
 
 在新建分组页面中，点击`分组名`，输入一个名字，用于区别不同的订阅，例如`订阅1`，点击确定。
 然后点击分组类型选择订阅，当你把分组类型改成订阅之后，下面就会出现订阅链接的选项，点击订阅链接并粘贴你复制的链接进去。最后点击右上角的✔完成新建分组的设置。
-![翻墙软件Nekobox详细使用教程-9.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-9.gif)
+![翻墙软件Nekobox详细使用教程-9.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-9.webp)
 
 点击✔后软件就会自动开始更新订阅，稍等片刻之后就能看到更新成功的提示，下方会提示你更新的信息，列表中能看到最后一次更新的时间和手动更新的按钮。点击左上角三条杠选择`配置`，在配置页面就能看到多了一个标签，标签的名字就是刚刚设置的`订阅1`，点击标签就能看到订阅更新的节点。
-![翻墙软件Nekobox详细使用教程-10.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-10.gif)
+![翻墙软件Nekobox详细使用教程-10.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-10.webp)
 ### 切换节点和开启代理
 在主界面点击任意一个节点即可切换节点，当前选中的节点最左边会有竖线标识，选中节点后点击下方的圆形纸飞机图标即可开启代理。首次开启会提示添加网络链接请求，点击同意。然后手机下方就会出现当前的连接状态栏，点击状态栏就可以测试当前节点的延迟。
-![翻墙软件Nekobox详细使用教程-11.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-11.gif)
+![翻墙软件Nekobox详细使用教程-11.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-11.webp)
 ### 批量测试延迟
 点击右上角三个点，选择`TCPing`，等待测试完成，就能在每个节点最左边看到测试结果了，通常有数字代表节点可连通(可能可用)，但是如果显示超时(Timeout)那么节点肯定不可用。
-![翻墙软件Nekobox详细使用教程-12.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-12.gif)
+![翻墙软件Nekobox详细使用教程-12.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-12.webp)
 
 ### 分应用代理
 ==要想让这个功能生效需要重新开启一遍代理，点击圆形按钮关闭，之后再点击圆形按钮开启==
 当开启代理之后你可能会发现一些国内的软件速度缓慢，甚至是无法加载，这是因为软件默认把所有应用的流量都通过代理节点转发。想解决这个问题，你需要分应用代理功能。
 点击右上角三条杠，点击`设置`，下滑找到`分应用代理`，点击右边的开关开启功能，点击之后页面就会跳转到应用选择页面。默认是`绕过`模式，也就是说下面被选择的应用将不会被转发到节点，而是直接连接的模式。这样例如微信等国内软件就不会收到翻墙软件的影响了。
 选择完成之后点击左上角的`X`然后返回主界面，重新开启代理之后就会生效了。
-![翻墙软件Nekobox详细使用教程-13.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-13.gif)
+![翻墙软件Nekobox详细使用教程-13.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-13.webp)
 
 在上面的例子中可以看到，分应用代理页面中还有几个功能，他们分别是:
 - `关闭` - `代理` - `绕过`
@@ -101,7 +101,7 @@ Nekobox下载:https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download
 2. 访问的网站不在代理规则内，所以开启代理后打不开。
 这个时候你可以自己手动添加规则来解决:
 点击左上角三条杠，点击`路由`，再点击右上角的三条竖线添加一条路由规则:
-![翻墙软件Nekobox详细使用教程-15.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-15.gif)
+![翻墙软件Nekobox详细使用教程-15.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-15.webp)
 
 在新建路由规则界面，主要有三项需要设置:
 - 路由名称
@@ -114,5 +114,5 @@ Nekobox下载:https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download
 		- 代理 - 通过节点访问
 		- 绕过 - 不通过节点访问，直连
 		- 屏蔽 - 直接不访问，通常用于屏蔽广告
-![翻墙软件Nekobox详细使用教程-16.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-16.gif)
+![翻墙软件Nekobox详细使用教程-16.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-16.webp)
 
