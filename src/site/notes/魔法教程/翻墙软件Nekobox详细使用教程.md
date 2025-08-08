@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/魔法教程/翻墙软件Nekobox详细使用教程/","updated":"2025-08-08T11:02:55.088+08:00"}
+{"dg-publish":true,"permalink":"/魔法教程/翻墙软件Nekobox详细使用教程/","updated":"2025-08-08T14:33:47.107+08:00"}
 ---
 
 
@@ -45,7 +45,7 @@ Nekobox下载:https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download
 刚刚安装完成的Nekobox是没有任何的订阅和节点的，需要你自己导入。导入节点或者是导入订阅之后再选择一个合适的节点就可以开启代理了。
 ### 首次运行
 当你安装完成Nekobox之后，首次打开将会提示你是否运行显示通知，点允许即可，否则你可能无法在手机通知栏看到当前的代理状态。
-![翻墙软件Nekobox详细使用教程-5.gif](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-5.gif)
+![翻墙软件Nekobox详细使用教程-5.webp](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-5.webp)
 ### 导入节点
 导入节点有两种方法，其中一种是通过剪贴板导入节点，还有一种是扫描二维码导入，二维码的内容本质是也是一个节点链接。
 如何判断一个链接是否是节点链接:
