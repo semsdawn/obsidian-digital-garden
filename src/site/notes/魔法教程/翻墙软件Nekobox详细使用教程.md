@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/魔法教程/翻墙软件Nekobox详细使用教程/","updated":"2025-08-08T14:51:00.009+08:00"}
+{"dg-publish":true,"permalink":"/魔法教程/翻墙软件Nekobox详细使用教程/","updated":"2025-08-08T15:44:07.004+08:00"}
 ---
 
 
-> 本文介绍了安卓代理软件Nekobox的下载与使用
+> 本文介绍了安卓代理软件Nekobox的下载与使用，你也可以选择直接跳转到[下载与安装的部分](#下载安装Nekobox)
 
-下载
 ## Nekobox介绍
 ==此段可以跳过==
 Nekobox完整名字是NekoBox for Android，是一款使用 sing-box 的 Android 通用代理软件。也就是通常说的翻墙软件或者魔法软件。其中sing-box是其使用的核心。
@@ -27,18 +26,18 @@ Nekobox支持以下协议的节点，部分协议需要安装插件后实现支�
 用手机浏览器扫描二维码或打开下面的链接，又或者是用手机自带的扫描器扫描二维码均可跳转到下载。
 Nekobox下载:https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.9/NekoBox-1.3.9-arm64-v8a.apk
 二维码:
-![翻墙软件Nekobox详细使用教程-1.png](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-1.png)
+![翻墙软件Nekobox详细使用教程-1.png|131](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-1.png)
 
 *如果你的安卓设备不是传统的arm架构或者是老旧的32位arm架构，请参考下载正确版本*:
 - arm架构老旧的安卓手机
 	- https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.9/NekoBox-1.3.9-armeabi-v7a.apk
-	- ![翻墙软件Nekobox详细使用教程-2.png](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-2.png)
+	- ![翻墙软件Nekobox详细使用教程-2.png|131](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-2.png)
 - x86架构的电脑设备和平板设备使用的
 	- https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.9/NekoBox-1.3.9-x86.apk
-	- ![翻墙软件Nekobox详细使用教程-3.png](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-3.png)
+	- ![翻墙软件Nekobox详细使用教程-3.png|131](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-3.png)
 - x86架构64位的电脑设备和平板设备使用的
 	- https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.9/NekoBox-1.3.9-x86_64.apk
-	- ![翻墙软件Nekobox详细使用教程-4.png](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-4.png)
+	- ![翻墙软件Nekobox详细使用教程-4.png|131](/img/user/%E9%AD%94%E6%B3%95%E6%95%99%E7%A8%8B/pic/%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6Nekobox%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-4.png)
 
 打开链接之后下载就会开始，等待下载完成安装即可。
 ## Nekobox使用
